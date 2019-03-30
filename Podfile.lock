@@ -1,0 +1,16 @@
+PODS:
+  - PPTestComponent (0.1.1)
+
+DEPENDENCIES:
+  - PPTestComponent
+
+SPEC REPOS:
+  https://github.com/zedxpp/PPSpecs.git:
+    - PPTestComponent
+
+SPEC CHECKSUMS:
+  PPTestComponent: 23b58e561b244e15f4fde5a0eaf734e95c6f15f5
+
+PODFILE CHECKSUM: 1ce70fbcfad75e18d4d2e3dbac8497e59b35d84b
+
+COCOAPODS: 1.6.1
